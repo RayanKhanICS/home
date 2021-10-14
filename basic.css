@@ -1,0 +1,25 @@
+body {
+     background-color: light-blue;
+}
+h1 {
+   text-allign: center
+   color: blue
+   font-size: 30px
+ }
+h2 {
+   color: white
+   font-size: 20px
+p {
+  font-size: 10px
+  color: black
+}
+.sources {
+  color: red
+}
+#Top {
+  color: blue
+}
+img {
+    border-style: dashed
+}
+
